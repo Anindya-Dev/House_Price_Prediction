@@ -1,5 +1,4 @@
-# SCT_ML_01
- # 🏠 House Price Prediction using Linear Regression
+# 🏠 House Price Prediction using Linear Regression
 
 This project is a **Machine Learning-based web app** that predicts house prices using a **Linear Regression model**. The user can input features like the total living area, number of bedrooms, and bathrooms, and instantly receive a predicted sale price through an interactive **Streamlit interface**.
 
@@ -31,8 +30,8 @@ Once trained, the model is saved as `model.pkl` and used within the app to provi
 
 #### ✅ Step 1: Clone the repository
 ```bash
-git clone https://github.com/Anindya-Dev/SCT_ML_01.git
-cd SCT_ML_01
+git clone https://github.com/Anindya-Dev/House_Price_Prediction.git
+cd House_Price_Prediction
 #Installs all the required libraries.
 pip install -r requirements.txt
 #Run the app on a localhost server.
