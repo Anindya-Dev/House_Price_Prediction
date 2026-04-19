@@ -26,7 +26,7 @@ Once trained, the model is saved as `model.pkl` and used within the app to provi
 
 ## 💡 How to Use This Project Locally
 
-### 1️⃣ Step-by-Step Setup Instructions
+### 1️⃣ Step-by-Step Setup Instructions for local users
 
 #### ✅ Step 1: Clone the repository
 ```bash
