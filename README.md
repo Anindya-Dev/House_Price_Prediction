@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction using Linear Regression
 
-This project is a **Machine Learning-based web app** that predicts house prices using a **Linear Regression model**. The user can input features like the total living area, number of bedrooms, and bathrooms, and instantly receive a predicted sale price through an interactive **Streamlit interface**.
+This project is a **Machine Learning-based web app** that predicts house prices using a **Linear Regression model**. The user can input features like the total living area, number of bedrooms, and bathrooms, and instantly receive a predicted sale price through an interactive **Streamlit User interface**.
 
 ---
 
